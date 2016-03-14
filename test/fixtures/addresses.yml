@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  addressable_id: 1
+  addressable_type: MyString
+  street: MyString
+  city: MyString
+  state: MyString
+
+two:
+  addressable_id: 1
+  addressable_type: MyString
+  street: MyString
+  city: MyString
+  state: MyString

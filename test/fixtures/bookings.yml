@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  theater_id: 1
+  movie_id: 1
+  show_date: 2016-03-09
+  show_type: MyString
+  seats: 1
+
+two:
+  theater_id: 1
+  movie_id: 1
+  show_date: 2016-03-09
+  show_type: MyString
+  seats: 1
